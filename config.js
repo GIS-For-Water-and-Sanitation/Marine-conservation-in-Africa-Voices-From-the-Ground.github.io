@@ -55,15 +55,11 @@ var config = {
             pitch: 0.00,
             bearing: 0.00
           },
-          onChapterEnter: [
-              //{
-                  //layer: 'gnpglaciers-1998',
-                  //opacity: 0.25
-              //},
-              //{
-                  //layer: 'glaciernp-boundary',
-                  //opacity: 0.25
-            ]
+              mapAnimation: 'flyTo',
+              rotateAnimation: false,
+              callback: '',
+              onChapterEnter: [],
+              onChapterExit: []
           },
           {
               id: 'other-identifier17',
@@ -360,7 +356,7 @@ var config = {
             hidden: false,
             title: 'WASPA’s NTA’s explaining to WSPs and partners on the realized targets under the EU financed period and on the future outlook of the benchmark program',
             //description: 'Following successful actualization of the WASPA’s utility led benchmark program in the Financial Year 2013/2014 and with growing of participation of the utilities reaching 28 WSPs, plans are underway to accommodate all interested (voluntary) WSPs in coming years, WASPA is making heady steps to improve the capacity of the secretariat to manage the processes especially those of data management (collection, analysis & presentation) and to be able to provide need – based and targeted support to the WSPs to enhance their performance improvement agenda. This will include Support in use of NRW reduction equipment available within the Association, In house and on the field trainings on identified topics, Facilitation of technical task group activities bringing together WSPs participating in the peer learning curve, WSPs will fully finance (through - WASREB has allowed for tariff approvals) PIP implementation costs as well participation charges for those WSPs continuing in the peer to peer benchmark program. WASPA aims at continuing to mobilize for necessary technical assistance from lead implementing partners among them VEI, SNV and KEWI especially under the auspices of ‘Performance Enhancement of Water Utilities in Kenya (PEWAK) through benchmarking, collective learning and innovative financing (RVO), It is forecast that 25 participating WSPs will show better than average performance (i.e. NRW), including a sales increase of 15% and improved service levels (i.e. Low Income Community focus), WASPA will be investing in pro – poor support to WSPs. Accelerated improvement in (Low Income Community) water and sanitation services to Low Income Areas households, with access strategies developed for at least 750,000 people',
-            image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/main/images/job.png',
+            image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/images/job.png',
             location: {
               center: [37.44270, 0.46336],
               zoom: 5.25,
@@ -379,7 +375,7 @@ var config = {
             hidden: false,
             title: 'Resident Project Manager – Reint Jan (VEI) giving his observations and remarks',
             //description: 'Following successful actualization of the WASPA’s utility led benchmark program in the Financial Year 2013/2014 and with growing of participation of the utilities reaching 28 WSPs, plans are underway to accommodate all interested (voluntary) WSPs in coming years, WASPA is making heady steps to improve the capacity of the secretariat to manage the processes especially those of data management (collection, analysis & presentation) and to be able to provide need – based and targeted support to the WSPs to enhance their performance improvement agenda. This will include Support in use of NRW reduction equipment available within the Association, In house and on the field trainings on identified topics, Facilitation of technical task group activities bringing together WSPs participating in the peer learning curve, WSPs will fully finance (through - WASREB has allowed for tariff approvals) PIP implementation costs as well participation charges for those WSPs continuing in the peer to peer benchmark program. WASPA aims at continuing to mobilize for necessary technical assistance from lead implementing partners among them VEI, SNV and KEWI especially under the auspices of ‘Performance Enhancement of Water Utilities in Kenya (PEWAK) through benchmarking, collective learning and innovative financing (RVO), It is forecast that 25 participating WSPs will show better than average performance (i.e. NRW), including a sales increase of 15% and improved service levels (i.e. Low Income Community focus), WASPA will be investing in pro – poor support to WSPs. Accelerated improvement in (Low Income Community) water and sanitation services to Low Income Areas households, with access strategies developed for at least 750,000 people',
-            image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/main/images/deblois.png',
+            image: 'https://github.com/geoffreykirui/geoffreykirui.github.io/blob/main/images/deblois.png',
             location: {
               center: [37.44270, 0.46336],
               zoom: 5.25,
@@ -398,7 +394,7 @@ var config = {
             hidden: false,
             title: 'Embu Water receiving an award for introducing SMS billing to the sector – hereby improving billing reliability, collection (financial gain) and consumer convenience',
             //description: 'Following successful actualization of the WASPA’s utility led benchmark program in the Financial Year 2013/2014 and with growing of participation of the utilities reaching 28 WSPs, plans are underway to accommodate all interested (voluntary) WSPs in coming years, WASPA is making heady steps to improve the capacity of the secretariat to manage the processes especially those of data management (collection, analysis & presentation) and to be able to provide need – based and targeted support to the WSPs to enhance their performance improvement agenda. This will include Support in use of NRW reduction equipment available within the Association, In house and on the field trainings on identified topics, Facilitation of technical task group activities bringing together WSPs participating in the peer learning curve, WSPs will fully finance (through - WASREB has allowed for tariff approvals) PIP implementation costs as well participation charges for those WSPs continuing in the peer to peer benchmark program. WASPA aims at continuing to mobilize for necessary technical assistance from lead implementing partners among them VEI, SNV and KEWI especially under the auspices of ‘Performance Enhancement of Water Utilities in Kenya (PEWAK) through benchmarking, collective learning and innovative financing (RVO), It is forecast that 25 participating WSPs will show better than average performance (i.e. NRW), including a sales increase of 15% and improved service levels (i.e. Low Income Community focus), WASPA will be investing in pro – poor support to WSPs. Accelerated improvement in (Low Income Community) water and sanitation services to Low Income Areas households, with access strategies developed for at least 750,000 people',
-            image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/main/images/embu.png',
+            image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/images/embu.png',
             location: {
               center: [37.44270, 0.46336],
               zoom: 5.25,
