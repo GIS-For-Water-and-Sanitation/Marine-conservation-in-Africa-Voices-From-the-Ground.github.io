@@ -18,8 +18,7 @@ var config = {
           hidden: false,
           title: 'INTRODUCTION',
           //image: './path/to/image/source.png',
-          <img src="images/waspa.png"/>
-          image: 'https://github.com/geoffreykirui/geoffreykirui.github.io/tree/main/images/waspa.png',
+          image: '/images/waspa.png',
           description: 'In 2012, WASPA embarked on an intensive utility-led ‘peer-to-peer’ benchmarking programme – supported by Vitens Evides International (VEI), VEWIN (WASPA counterpart in The Netherlands) SNV Kenya, Kenya Water Institute (KEWI) and other partners (WASREB and GIZ). Through a yearly performance assessment (comparison) exercise1 -acquired insight in utility performance2 and ‘leading practices’ of peers- serves to support you in developing or refining utility-specific Performance Improvement Plans (PIPs). The good practices dissemination and awards workshop was organized in Nairobi, Kenya, on 5 November 2015 with a view to acknowledge achievements of trendsetters in the Peer-to-Peer Learning under the 4 year WASPA benchmark program',
           location: {
             center: [37.78782, 1.01637],
