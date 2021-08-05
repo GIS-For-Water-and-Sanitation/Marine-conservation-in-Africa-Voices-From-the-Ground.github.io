@@ -351,7 +351,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'other-identifier12',
+            id: 'other-identifier22',
             alignment: 'right',
             hidden: false,
             title: 'WASPA’s NTA’s explaining to WSPs and partners on the realized targets under the EU financed period and on the future outlook of the benchmark program',
@@ -370,7 +370,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'other-identifier13',
+            id: 'other-identifier23',
             alignment: 'left',
             hidden: false,
             title: 'Resident Project Manager – Reint Jan (VEI) giving his observations and remarks',
@@ -389,7 +389,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'other-identifier14',
+            id: 'other-identifier24',
             alignment: 'right',
             hidden: false,
             title: 'Embu Water receiving an award for introducing SMS billing to the sector – hereby improving billing reliability, collection (financial gain) and consumer convenience',
