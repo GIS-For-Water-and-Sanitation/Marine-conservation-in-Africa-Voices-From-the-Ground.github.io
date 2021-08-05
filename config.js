@@ -10,7 +10,7 @@ var config = {
     //image: 'E:/Software/storytelling-main/storytelling-main/src/images/people.png',
     byline: 'By Geoffrey Kirui',
     //footer: 'Source: GIS For Water and Sanitation',
-    footer: 'Source: Data from from WASPA Website Story Map by <a href="https://icongeospatial.odoo.com/">GIS For Water and Sanitation</a>',
+    footer: 'Source: WASPA Story Map by <a href="https://icongeospatial.odoo.com/">GIS For Water and Sanitation</a>',
     chapters: [
       {
           id: 'slug-style1-id',
@@ -300,7 +300,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '9. Increase in O&M Cost coverage by Kericho WSP:',
-            description: 'highlighted the following - Issues: Everyone clueless of the Spatial Location of most assets, High NRW – Less Billings/Revenue Collection, Poor Customer Management/Communication - Complain Resolution, Porous and Poor Customer Data Base, Very high O&M costs, Poor Data Management and Wrong Reporting. Change Management and Integrity issues among staff. They embarked on the following Process: Customer dentification survey(billing problems, unbilled metered connectionS, illegal connections, unfulfilled reconnection requesT, leaking pipes, potential customers, contacts and details foe customers). integrity management toolbox (integrity change process, integrity instruments, integrity risks, change management, operation and performances improvement,team worK, job cards, all outdoor staffs capture all their works with coordinates and materials used.) Strategic mass disconnection (timely action time, result oriented, proper planning and execution',
+            description: 'highlighted the following - Issues: Everyone clueless of the Spatial Location of most assets, High NRW – Less Billings/Revenue Collection, Poor Customer Management/Communication - Complain Resolution, Porous and Poor Customer Data Base, Very high O&M costs, Poor Data Management and Wrong Reporting. Change Management and Integrity issues among staff. They embarked on the following Process: Customer identification survey (billing problems, unbilled metered connectionS, illegal connections, unfulfilled reconnection requesT, leaking pipes, potential customers, contacts and details foe customers). integrity management toolbox (integrity change process, Integrity instruments, integrity risks, change management, operation and performances improvement, team work, job cards, all outdoor staffs capture all their works with coordinates and materials used.) Strategic mass disconnection (timely action time, result oriented, proper planning and execution)',
             location: {
               center: [35.28255, -0.37023],
               zoom: 15.27,
