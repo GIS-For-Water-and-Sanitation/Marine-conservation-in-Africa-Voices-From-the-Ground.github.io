@@ -10,7 +10,7 @@ var config = {
     //image: 'E:/Software/storytelling-main/storytelling-main/src/images/people.png',
     byline: 'By Geoffrey Kirui',
     //footer: 'Source: GIS For Water and Sanitation',
-    footer: 'Source: WASPA Story Map by <a href="https://icongeospatial.odoo.com/">GIS For Water and Sanitation</a>',
+    footer: 'Source: WASPA Story Map by <a href="https://gisforwaterandsanitation.odoo.com/">GIS For Water and Sanitation</a>',
     chapters: [
       {
           id: 'slug-style1-id',
