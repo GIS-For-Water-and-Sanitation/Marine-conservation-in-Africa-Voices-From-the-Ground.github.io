@@ -5,12 +5,12 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'Report of the WASPA’s Good Practices Dissemination & Awards Workshop',
-    subtitle: 'Acknowledging Exemplary Performance of Water Services Providers. November 5th 2015 Pan Afric Hotel Nairobi',
+    title: 'Marine conservation in Africa',
+    subtitle: '- Voices From the Ground',
     //image: 'E:/Software/storytelling-main/storytelling-main/src/images/people.png',
     byline: 'By Geoffrey Kirui',
     //footer: 'Source: GIS For Water and Sanitation',
-    footer: 'Source: WASPA Story Map by <a href="https://gisforwaterandsanitation.odoo.com/">GIS For Water and Sanitation</a>',
+    footer: 'Source: Marine conservation in Africa - Voices From the Ground Story Map by <a href="https://gisforwaterandsanitation.odoo.com/">GIS For Water and Sanitation</a>',
     chapters: [
       {
           id: 'slug-style1-id',
@@ -21,8 +21,8 @@ var config = {
           image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/images/waspa.png',
           description: 'In 2012, WASPA embarked on an intensive utility-led ‘peer-to-peer’ benchmarking programme – supported by Vitens Evides International (VEI), VEWIN (WASPA counterpart in The Netherlands) SNV Kenya, Kenya Water Institute (KEWI) and other partners (WASREB and GIZ). Through a yearly performance assessment (comparison) exercise1 -acquired insight in utility performance2 and ‘leading practices’ of peers- serves to support you in developing or refining utility-specific Performance Improvement Plans (PIPs). The good practices dissemination and awards workshop was organized in Nairobi, Kenya, on 5 November 2015 with a view to acknowledge achievements of trendsetters in the Peer-to-Peer Learning under the 4 year WASPA benchmark program',
           location: {
-            center: [37.78782, 1.01637],
-            zoom: 4.97,
+            center: [13.76227, 4.41428],
+            zoom: 2.52,
             pitch: 0.00,
             bearing: 0.00
           },
