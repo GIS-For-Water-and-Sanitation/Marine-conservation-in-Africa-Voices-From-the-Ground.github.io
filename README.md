@@ -1,3 +1,3 @@
-# WASPA_storytelling.github.io
+# Marine conservation in Africa - Voices From the Ground
 MapBox storytelling is one interesting way to put your story in form putting static web map with stories.
 The storytelling can be found here https://geoffreykirui.github.io/WASPA_storytelling.github.io/
