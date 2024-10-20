@@ -5,8 +5,8 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'Marine conservation in Africa',
-    subtitle: '- Voices From the Ground',
+    title: 'Marine Conservation in Africa',
+    subtitle: 'Voices From the Ground',
     //image: 'E:/Software/storytelling-main/storytelling-main/src/images/people.png',
     byline: 'By Geoffrey Kirui',
     //footer: 'Source: GIS For Water and Sanitation',
@@ -17,11 +17,11 @@ var config = {
           alignment: 'left',
           hidden: false,
           title: 'INTRODUCTION',
-          //image: './path/to/image/source.png',
-          image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/images/waspa.png',
-          description: 'In 2012, WASPA embarked on an intensive utility-led ‘peer-to-peer’ benchmarking programme – supported by Vitens Evides International (VEI), VEWIN (WASPA counterpart in The Netherlands) SNV Kenya, Kenya Water Institute (KEWI) and other partners (WASREB and GIZ). Through a yearly performance assessment (comparison) exercise1 -acquired insight in utility performance2 and ‘leading practices’ of peers- serves to support you in developing or refining utility-specific Performance Improvement Plans (PIPs). The good practices dissemination and awards workshop was organized in Nairobi, Kenya, on 5 November 2015 with a view to acknowledge achievements of trendsetters in the Peer-to-Peer Learning under the 4 year WASPA benchmark program',
+          //image: './path/to/image/overview.png',
+          image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/images/overview.png',
+          description: 'These are voices From the Ground',
           location: {
-            center: [13.76227, 4.41428],
+            center: [19.76181, 7.53594],
             zoom: 2.52,
             pitch: 0.00,
             bearing: 0.00
@@ -43,35 +43,17 @@ var config = {
               // }
           ]
       },
-      {
-          id: 'glacier-np',
-          alignment: 'full',
-          title: 'Sharing of theme - specific lead practices and awards',
-          image: 'https://raw.githubusercontent.com/geoffreykirui/geoffreykirui.github.io/main/images/people.png',
-          description: 'NRW Management and reductions, Service Levels Improvements, and Operations & Maintenance Cost Recovery',
-          location: {
-            center: [37.78782, 1.01637],
-            zoom: 4.97,
-            pitch: 0.00,
-            bearing: 0.00
-          },
-              mapAnimation: 'flyTo',
-              rotateAnimation: false,
-              callback: '',
-              onChapterEnter: [],
-              onChapterExit: []
-          },
           {
               id: 'other-identifier17',
               alignment: 'full',
               hidden: false,
-              title: 'Sharing of theme - specific lead practices and awards: ',
+              title: 'Sharing of voices across Africa: ',
               //description: 'On behalf of the Executive Board, the Secretariat and all Members, the WASPA Chairman, wishes to thank all the WSPs who prepared to make their sharing during good practices dissemination workshop. Inevitably this would not have been a success without the active participation of other members (both WSPs and other) who attended the workshop. Special appreciation is also extended to the program’s implementing partners who provided technical and financial resources to develop the program that is currently anchored in the WASPA Strategic Plan 2013 – 2017. The European Union, Vitens Evides International, SNV Kenya, KEWI, GIZ as well as WASREB have been very close to the heart of the program. It is our hope that this product/service will be facilitated to benefit all the WSPs now and in the future. ',
               //image: 'E:/Software/storytelling-main/storytelling-main/src/images/kakamega.png',
               location: {
-                center: [38.32850, 1.63641],
+                center: [19.76181, 7.53594],
                 zoom: 5.40,
-                pitch: 60.00,
+                pitch: 10.00,
                 bearing: 0.00
               },
               mapAnimation: 'flyTo',
@@ -84,12 +66,12 @@ var config = {
             id: 'slug-style-id',
             alignment: 'full',
             hidden: false,
-            title: 'A. NRW Management/reductions:',
+            title: '1. Morocco:',
             //image: './path/to/image/source.png',
             //image: './path/to/image/waspa people.png',
-            description: 'The Best improved or trendsetter in NRW reduction and Management award was presented to Oloolaiser by Luuk Veens, Financial Director VEI.',
+            description: 'Our experience in the marine field, in addition to its scientific and conservation interest, also had a human dimension. It allowed us to establish contacts with fishermen, to understand the challenges they face daily and to share their ancestral kno',
             location: {
-              center: [36.75344, -1.39498],
+              center: [-7.28209, 32.34590],
               zoom: 14.06,
               pitch: 45.00,
               bearing: 0.00
